@@ -1,0 +1,18 @@
+{
+  "vendor": "vtexlab",
+  "name": "myfirstapp",
+  "version": "0.0.0",
+  "title": "My First App",
+  "description": "It's my first app",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {},
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
