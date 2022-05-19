@@ -1,7 +1,7 @@
 {
   "vendor": "vtexlab",
   "name": "myfirstapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "My First App",
   "description": "It's my first app",
   "builders": {
@@ -13,9 +13,7 @@
   "dependencies": {
     "vtex.styleguide": "9.x"
   },
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
